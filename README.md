@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **swayampandya1236@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1aWCCiC9ONj5zk3_LMvE27FerCdT6STOQ/view?usp=sharing](https://drive.google.com/file/d/1aWCCiC9ONj5zk3_LMvE27FerCdT6STOQ/view?usp=sharing)
-
 - ⚡ Fun fact **JS is better than Python**
 
 <h3 align="left">Connect with me:</h3>
